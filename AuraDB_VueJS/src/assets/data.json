@@ -1,0 +1,29 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "key": "21",
+                "label": "A node",
+                "size": 3
+            },
+            {
+                "key": "24",
+                "label": "Another node",
+                "size": 2
+            },
+            {
+                "key": "28",
+                "label": "Another node",
+                "size": 2
+            }
+        ],
+        "edges": [
+            {
+                "key": "100",
+                "source": "21",
+                "target": "24"
+            }
+        ]
+    }
+}
+
